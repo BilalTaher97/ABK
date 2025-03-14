@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\ABK\\MyProject_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{689D75F4-59F3-4681-B6DF-9C00CF0D6FB6}|MyProject_MVC\\MyProject_MVC.csproj|c:\\users\\orange\\source\\repos\\abk\\myproject_mvc\\myproject_mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D75F4-59F3-4681-B6DF-9C00CF0D6FB6}|MyProject_MVC\\MyProject_MVC.csproj|solutionrelative:myproject_mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D75F4-59F3-4681-B6DF-9C00CF0D6FB6}|MyProject_MVC\\MyProject_MVC.csproj|c:\\users\\orange\\source\\repos\\abk\\myproject_mvc\\myproject_mvc\\views\\user\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{689D75F4-59F3-4681-B6DF-9C00CF0D6FB6}|MyProject_MVC\\MyProject_MVC.csproj|solutionrelative:myproject_mvc\\views\\user\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D75F4-59F3-4681-B6DF-9C00CF0D6FB6}|MyProject_MVC\\MyProject_MVC.csproj|c:\\users\\orange\\source\\repos\\abk\\myproject_mvc\\myproject_mvc\\views\\user\\verifycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{689D75F4-59F3-4681-B6DF-9C00CF0D6FB6}|MyProject_MVC\\MyProject_MVC.csproj|solutionrelative:myproject_mvc\\views\\user\\verifycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D75F4-59F3-4681-B6DF-9C00CF0D6FB6}|MyProject_MVC\\MyProject_MVC.csproj|c:\\users\\orange\\source\\repos\\abk\\myproject_mvc\\myproject_mvc\\views\\user\\log_reg.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{689D75F4-59F3-4681-B6DF-9C00CF0D6FB6}|MyProject_MVC\\MyProject_MVC.csproj|solutionrelative:myproject_mvc\\views\\user\\log_reg.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D75F4-59F3-4681-B6DF-9C00CF0D6FB6}|MyProject_MVC\\MyProject_MVC.csproj|c:\\users\\orange\\source\\repos\\abk\\myproject_mvc\\myproject_mvc\\views\\user\\newpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{689D75F4-59F3-4681-B6DF-9C00CF0D6FB6}|MyProject_MVC\\MyProject_MVC.csproj|solutionrelative:myproject_mvc\\views\\user\\newpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D75F4-59F3-4681-B6DF-9C00CF0D6FB6}|MyProject_MVC\\MyProject_MVC.csproj|c:\\users\\orange\\source\\repos\\abk\\myproject_mvc\\myproject_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689D75F4-59F3-4681-B6DF-9C00CF0D6FB6}|MyProject_MVC\\MyProject_MVC.csproj|solutionrelative:myproject_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689D75F4-59F3-4681-B6DF-9C00CF0D6FB6}|MyProject_MVC\\MyProject_MVC.csproj|c:\\users\\orange\\source\\repos\\abk\\myproject_mvc\\myproject_mvc\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{689D75F4-59F3-4681-B6DF-9C00CF0D6FB6}|MyProject_MVC\\MyProject_MVC.csproj|solutionrelative:myproject_mvc\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ABK\\MyProject_MVC\\MyProject_MVC\\Views\\User\\NewPassword.cshtml",
+              "RelativeDocumentMoniker": "MyProject_MVC\\Views\\User\\NewPassword.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ABK\\MyProject_MVC\\MyProject_MVC\\Views\\User\\NewPassword.cshtml",
+              "RelativeToolTip": "MyProject_MVC\\Views\\User\\NewPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T13:26:12.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ABK\\MyProject_MVC\\MyProject_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MyProject_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ABK\\MyProject_MVC\\MyProject_MVC\\Program.cs",
+              "RelativeToolTip": "MyProject_MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T12:21:44.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ABK\\MyProject_MVC\\MyProject_MVC\\Views\\User\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "MyProject_MVC\\Views\\User\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ABK\\MyProject_MVC\\MyProject_MVC\\Views\\User\\ResetPassword.cshtml",
+              "RelativeToolTip": "MyProject_MVC\\Views\\User\\ResetPassword.cshtml",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAUwG4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T12:04:41.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ABK\\MyProject_MVC\\MyProject_MVC\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "MyProject_MVC\\Views\\User\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ABK\\MyProject_MVC\\MyProject_MVC\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "MyProject_MVC\\Views\\User\\Profile.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T12:04:35.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VerifyCode.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ABK\\MyProject_MVC\\MyProject_MVC\\Views\\User\\VerifyCode.cshtml",
+              "RelativeDocumentMoniker": "MyProject_MVC\\Views\\User\\VerifyCode.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ABK\\MyProject_MVC\\MyProject_MVC\\Views\\User\\VerifyCode.cshtml",
+              "RelativeToolTip": "MyProject_MVC\\Views\\User\\VerifyCode.cshtml",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAmwJAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T12:04:25.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ABK\\MyProject_MVC\\MyProject_MVC\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MyProject_MVC\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ABK\\MyProject_MVC\\MyProject_MVC\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MyProject_MVC\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T11:28:05.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Log_Reg.cshtml",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\ABK\\MyProject_MVC\\MyProject_MVC\\Views\\User\\Log_Reg.cshtml",
+              "RelativeDocumentMoniker": "MyProject_MVC\\Views\\User\\Log_Reg.cshtml",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\ABK\\MyProject_MVC\\MyProject_MVC\\Views\\User\\Log_Reg.cshtml",
+              "RelativeToolTip": "MyProject_MVC\\Views\\User\\Log_Reg.cshtml",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAUwAYBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T11:23:48.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
